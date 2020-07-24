@@ -1,7 +1,9 @@
 {
   "header": "Header",
   "lead": "Subtitle",
-  "description": "Set your description text here.\nYou can also use multiple lines.",
+  "description1": "Set your description text here.You can also use multiple lines.",
+  "description2": "You can use up to three paragraphs here.",
+  "description3": "If you need more, just create an Issue on the GitHub page",
   "btn-start": "Get started",
   "alert1": "This website contains fast flashing images.",
   "alert2": "It may cause discomfort and trigger seizures for people with photosensitive epilepsy.",

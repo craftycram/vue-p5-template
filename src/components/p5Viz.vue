@@ -11,16 +11,22 @@ export default {
   methods: {
     setup(sketch) {
 
+      sketch // Die Zeile löschen wenn ihr euren Code einfügt
+
       /**
        *  Code aus eurer Setup Funktion hier
        *  Ihr müsst vor alle p5 Funktionen ein sketch. einfügen
        *  Also aus fill wird sketch.fill
        *  rect -> sketch.rect etc
       */
-
-    },
+     
+     },
     draw(sketch) {
+
+      sketch // Die Zeile löschen wenn ihr euren Code einfügt
+      
       /* Eure Draw funktion hier. Hier des gleiche. Immer mit sketch. */
+    
     }
   },
 }

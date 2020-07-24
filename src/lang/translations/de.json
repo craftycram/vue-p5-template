@@ -1,7 +1,9 @@
 {
   "header": "Überschrift",
   "lead": "Sekundäre Überschrift",
-  "description": "Hier könnt ihr eine Beschreibung einfügen.\nDiese kann auch mehrere Zeilen lang sein.",
+  "description1": "Hier könnt ihr eine Beschreibung einfügen.",
+  "description2": "Ihr könnt bis zu drei Paragraphen nutzen.",
+  "description3": "Wenn ihr mehr braucht öffnet eine Issue auf der GitHub repo Seite.",
   "btn-start": "Los gehts",
   "alert1": "Diese Website enthält schnell blinkende Bilder.",
   "alert2": "Sie kann bei Menschen mit lichtempfindlicher Epilepsie Unbehagen verursachen und Anfälle auslösen.",

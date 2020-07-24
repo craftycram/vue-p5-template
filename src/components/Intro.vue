@@ -10,9 +10,9 @@
     </b-dropdown>
 
     <b-jumbotron bg-variant="dark" :header="$t('header')" :lead="$t('lead')">
-    <p>
-      {{$t('description')}}
-    </p>
+    <p>{{$t('description1')}}</p>
+    <p>{{$t('description2')}}</p>
+    <p>{{$t('description3')}}</p>
     <br>
     <b-button style="margin-right: 10px;" variant="primary" @click="$emit('start-event')">{{$t('btn-start')}}</b-button>
   </b-jumbotron>
