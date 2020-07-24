@@ -1,9 +1,11 @@
 # vue-p5-template
 
+Am besten ihr forkt euch einmal die repo und cloned sie dann über ssh.
+
 Ihr müsst folgende Dateien bearbeiten:
 
 ### Notwendig:
-* `deploy.sh`: Repo-Clone URL einfügen  
+* `deploy.sh`: Repo-Clone URL einfügen (Auf den grünen Code Button, dort use SSH. und dann den Link kopieren. Sollte so aussehen: git@github.com:username/vue-p5-template.git)  
 * `src/router/index.js`: Repo-Name einfügen  
 * `vue.config.js`: Repo-Name einfügen
 
