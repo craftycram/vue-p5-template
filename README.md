@@ -16,6 +16,7 @@ Ihr müsst folgende Dateien bearbeiten:
 * `src/assets/background.png`: Start-Hintergrundbild festlegen  
 * `src/App.vue`: Generelle Stylings (z.B. Typo ändern)  
 
+Nach dem ersten fork und clone einmal `npm i`
 Zum veröffentlichen auf GitHub-Pages einfach im Terminal: `bash deploy.sh`
 
 ## Project setup
