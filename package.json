@@ -13,12 +13,14 @@
     "vue": "^2.6.11",
     "vue-cookies": "^1.7.3",
     "vue-i18n": "^8.18.2",
-    "vue-p5": "^0.8.3"
+    "vue-p5": "^0.8.3",
+    "vue-router": "^3.2.0"
   },
   "devDependencies": {
     "@babel/polyfill": "^7.7.0",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-plugin-router": "^4.4.6",
     "@vue/cli-service": "~4.4.0",
     "babel-eslint": "^10.1.0",
     "bootstrap": "^4.3.1",
