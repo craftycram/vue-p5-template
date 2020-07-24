@@ -11,11 +11,19 @@ import VueCookies from 'vue-cookies'
 
 Vue.use(VueCookies);
 
-Vue.use(BootstrapVueIcons)
+Vue.use(BootstrapVueIcons);
+
+Vue.use(VueI18n);
+export const i18n = new VueI18n({
+  locale: 'de',
+  fallbackLocale: 'de',
+  messages
+});
 
 Vue.config.productionTip = false
 
 new Vue({
+  i18n,
   router,
   render: h => h(App)
 }).$mount('#app')
