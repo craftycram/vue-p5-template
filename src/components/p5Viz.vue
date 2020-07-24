@@ -10,7 +10,7 @@ export default {
     },
   methods: {
     setup(sketch) {
-      
+
       /**
        *  Code aus eurer Setup Funktion hier
        *  Ihr müsst vor alle p5 Funktionen ein sketch. einfügen
@@ -20,7 +20,6 @@ export default {
 
     },
     draw(sketch) {
-      
       /* Eure Draw funktion hier. Hier des gleiche. Immer mit sketch. */
     }
   },
